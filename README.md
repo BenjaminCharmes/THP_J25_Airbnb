@@ -1,24 +1,5 @@
-# README
+<h1 align="center">Day 25 of The Hacking Project: Database Validations & Designs</h1>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Here are all exercises in Ruby on Rails from day 25 of The Hacking Project: Airbnb !
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<h2 align="center">🎉 Day 10 of the Full Stack training 🎉</h2>
